@@ -2,11 +2,11 @@
 
 # Add comments to the Rails Blog Post Challenge
 # Explain the purpose and functionality of the code directly below the 10 comment tags
-
+# Looking for answers based on the line directly below the number!
 
 # FILE: app/controller/blog_posts_controller.rb
 
-# ---1)
+# ---1) 
 class BlogPostsController < ApplicationController
   def index
     # ---2)
